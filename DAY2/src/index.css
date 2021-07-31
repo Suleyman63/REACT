@@ -1,0 +1,33 @@
+.saat {
+  text-align: center;
+  font-weight: bold;
+  background-color: rgb(194, 149, 94);
+  font-family: fantasy;
+  height: 800px;
+}
+.header {
+  color: darkblue;
+}
+.foto {
+  box-shadow: 3px 5px 10px;
+  width: 600px;
+}
+.date {
+  color: purple;
+}
+.clock {
+  color: brown;
+}
+.message {
+  color: royalblue;
+}
+h3 {
+  height: 100px;
+  color: white;
+  background-color: brown;
+}
+.navbar {
+  height: 100px;
+  color: white;
+  background-color: brown;
+}

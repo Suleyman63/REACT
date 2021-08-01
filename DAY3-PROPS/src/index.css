@@ -1,0 +1,24 @@
+body {
+  background-color: gray;
+}
+
+img {
+  text-align: center;
+  height: 500px;
+  width: 500px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+h2 {
+  color: brown;
+  margin-top: 50px;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: darkgreen;
+}

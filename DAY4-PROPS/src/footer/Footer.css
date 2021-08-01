@@ -1,0 +1,10 @@
+.footer-p {
+  height: 60px;
+  background-color: orange;
+  padding-top: 40px;
+  color: whitesmoke;
+  font-weight: bolder;
+  font-family: fantasy;
+  box-shadow: 3px 3px 5px rgb(0, 0, 0);
+  margin-bottom: 0;
+}
